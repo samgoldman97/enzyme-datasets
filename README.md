@@ -10,15 +10,22 @@ TODO:
 2. [Done] `reformat_gts.py`    
 3. [Done] `reformat_halogenase.py`    
 4. [Done] `reformat_phosphatase.py`    
-5. `reformat_olea.py`    
-6. `reformat_duf.py`    
-7. `reformat_davis.py`    
-8. [OPTIONAL] `reformat_ainotransfrase.py`    
-9. [OPTIONAL] `reformat_nitrilase.py`    
-10. [OPTIONAL] `reformat_pafa.py`    
-11. [OPTIONAL] `reformat_rubisco.py`    
+5. [Done] `reformat_olea.py`    
+6. [Done] `reformat_duf.py`    
+7. [Done] `reformat_davis.py`    
+
+Not benchmarked 
+
+8. [Done] `reformat_ainotransfrase.py`    
+9. [Done] `reformat_nitrilase.py`    
 
 After compiling this, add list of dataset processed files and the amount of enzymes, substrates, and pairings for each
+
+Auto generate MSA? 
+
+Also auto generate structure references? 
+
+Make distinction between nitrilase and aminotransferase datasets
 
 ## Install
 
@@ -67,8 +74,32 @@ All activity is binarized at the suggested 0.2 threshold and also exported with 
 
 **Source:** Robinson et al. *Synthetic Biology*. 2020. 
 
+Data input files are extracted from the corresponding github repository provided by Robinson et al. 
 
+Binarized and regression versions of the dataset are created as in the original analaysis. 
 
+### DUF (BKACE) 
 
+**Source:** Bastard et al. *Nature Chem. Bio*. 2014. 
 
+Data files are taken from Bastard et al in the form of BinaryActivities.DB. Smiles strings are manually redrawn from the apper and converted into a mapping between chemical name and smiles string. Sequences are further extracted from an MSA. 
 
+### Davis (kinase inhibitors) 
+
+**Source:** Davis et al. *Nature Biotech.* 2011. 
+
+Unlike other enzyme datasets, this dataset contains a kinase inhibitor profile of 72 inhibitors against 442 kinases. We process this dataset in two ways. First, using the gene symbols that have deletions and insertions, we modify each sequence to have the appropriately listed insertions and deletions. Certain entries are given for both domains or a single domain of the kinase tested. To make sure we only model the kinase domain actually tested and stay within a single family, we use HMMER to trim each sequence to its corresponding domain PF000069. Further details can be found in the parse file `bin/reformat_davis.py`. 
+
+All kinase Kd pairs not listed are assumed to have been tested and ascribed a Kd value of 10,000. We create a second version of the dataset, "filtered," that contain no substitutions, insertions, or deletions.
+
+### Nitrilase 
+
+**Source:** Black et al. *RSC Chem. Commun..* 2014. 
+
+Nitrilase data is extracted directly from Black et al. and uniprot ids are converted to corresponding sequences.
+
+### Aminotransferase
+
+**Source:** Li et al. *ACS Catal.* 2020. 
+
+Aminotransferase data is extracted directly from Li et al. and uniprot ids are converted to corresponding sequences.
