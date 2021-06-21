@@ -1,0 +1,79 @@
+phosphoenolpyruvate	C=C(C(=O)O)OP(=O)(O)O
+Glycerol-2-phospate	C(C(CO)OP(=O)(O)O)O
+Glycerol-3-phosphate	C(C(COP(=O)(O)O)O)O
+D-erythronate-4-phosphate	O[C@H](CO[P](O)(O)=O)[C@@H](O)C(O)=O
+L-erythronate-4-phosphate	O[C@@H](CO[P](O)(O)=O)[C@H](O)C(O)=O
+D-threonate-4-phosphate	O[C@H](CO[P](O)(O)=O)[C@H](O)C(O)=O
+Pyrophosphate	O[P](O)(=O)O[P](O)(O)=O
+ATP	C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N
+TTP	CC1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
+GTP	C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O)N
+dATP	C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O
+Glycolic Acid O-P	C(C(=O)O)OP(=O)(O)O
+Glycerol-phosphate	OC[C@@H](O)COP(O)(O)=O
+DL-glyceraldehyde-3-phosphate	C(C(C=O)O)OP(=O)(O)O
+dihydroxyacetone phosphate	C(C(=O)COP(=O)(O)O)O
+meso-erythritol-4-phosphate	C(C(C(COP(=O)(O)O)O)O)O
+D-threitol-4-phosphate	OC[C@@H](O)[C@H](O)CO[P](O)(O)=O
+D-erythrose-4-phosphate	O[C@H](CO[P](O)(O)=O)[C@@H](O)C=O
+imidodiphosphate (PNP)	C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(NP(=O)(O)O)O)O)O)N
+ADP	Nc1ncnc2n(cnc12)C3OC(CO[P](O)(=O)O[P](O)(O)=O)C(O)C3O
+TDP	CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=O)(O)OP(=O)(O)O)O
+GDP	NC1=NC(=O)c2ncn(C3OC(CO[P](O)(=O)O[P](O)(O)=O)C(O)C3O)c2N1
+dCTP	NC1=NC(=O)N(C=C1)C2CC(O)C(CO[P](O)(=O)O[P](O)(=O)O[P](O)(O)=O)O2
+D-2-deoxy-ribonate-5-phosphate	O[C@@H]([C@@H](O)CC(O)=O)COP(O)(O)=O
+D-arabinonate-5-phosphate	O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@H](O)C(O)=O
+D-lyxonate-5-phosphate	O[C@H](CO[P](O)(O)=O)[C@H](O)[C@H](O)C(O)=O
+D-ribonate-5-phosphate	O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@@H](O)C(O)=O
+D-xylonate-3-phosphate	OC[C@@H](O)[C@H](O[P](O)(O)=O)[C@@H](O)C(O)=O
+D-xylonate-5-phosphate	O[C@H](CO[P](O)(O)=O)[C@H](O)[C@@H](O)C(O)=O
+L-arabinonate-5-phosphate	O[C@@H](CO[P](O)(O)=O)[C@H](O)[C@@H](O)C(O)=O
+Thiamine-pyrophosphate	Cc1ncc(C[n+]2csc(CCO[P]([O-])(=O)O[P](O)(O)=O)c2C)c(N)n1
+UTP	C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
+CTP	C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
+ITP	C1=NC2=C(C(=O)N1)N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O
+dGTP	C1[C@@H]([C@H](O[C@H]1N2C=NC3=C2N=C(NC3=O)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O
+L-Ribonate-5-phosphate	O[C@@H](CO[P](O)(O)=O)[C@H](O)[C@H](O)C(O)=O
+D-glycero-alpha-D-manno-heptose-1,7-bisphosphate	O[C@H]1[C@H](O)[C@H](O)[C@@H](OP(O)(O)=O)O[C@@H]1[C@@H](O)COP(O)(O)=O
+D-2-deoxy-ribitol-5-phosphate	[C@H]([C@H](CCO)O)(CO[P](=O)(O)O)O
+D-glucose-3,5-bisphosphate	C([C@H]([C@H]([C@@H]([C@H](C=O)O)O[P](O)(=O)O)O)O[P](O)(=O)O)O
+B-glucose-1,6-bisphosphate	C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)OP(=O)([O-])[O-])O)O)O)OP(=O)([O-])[O-]
+D-3'-deoxy-glucose-6-phosphate	C([C@H]([C@H](C[C@H](C(=O)[H])O)O)O)O[P](O)(=O)O
+D-glucitol-3,5-diphosphate	OC[C@H](O)[C@@H](OP(=O)(O)O)[C@H](O)[C@@H](CO)OP(=O)(O)O
+D-glucuronicitol-5-phosphate	OC([C@@H](CP(O)(O)=O)[C@@H](O)[C@H](O)[C@@H](O)CO)=O
+a-D-glucosamine-1-phosphate	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OP(=O)(O)O)N)O)O)O
+D-3-deoxy-gluconate-6-phosphate	O=C([C@@H](C[C@@H]([C@@H](COP(O)(O)=O)O)O)O)O
+D-arabitol-4-phosphate	OC[C@@H](OP(O)(O)=O)[C@H]([C@@H](CO)O)O
+6'-phosphogluconic acid	C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)OP(=O)(O)O
+D-glycero-beta-D-manno-heptose-1,7-bisphosphate	O[C@H]1[C@H](O)[C@H](O)[C@H](OP(O)(O)=O)O[C@@H]1[C@@H](O)COP(O)(O)=O
+5'-phosphoribosyl-1-pyrophosphate	C([C@@H]1[C@H]([C@H]([C@H](O1)OP(=O)([O-])OP(=O)(O)[O-])O)O)OP(=O)(O)[O-]
+α-D-glucose-1,6-bisphosphate	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OP(=O)(O)O)O)O)O)OP(=O)(O)O
+D-arabitol-5-phosphate	C([C@H]([C@@H]([C@@H](COP(=O)([O-])[O-])O)O)O)O
+N-phosphonomethyl glycine (PMG)	CC1=NC=C(C(=C1O)CN[C@@](C)(CCC(=O)O)C(=O)O)COP(=O)(O)O
+L-gulonic acid-2-methylene hydroxy phosphoric acid	O[C@H]([C@]1(COP(O)(O)=O)O)[C@@H](C(CO)O)OC1=O
+phosphormic  acid (PFA)	C(=O)(O)P(=O)(O)O
+2-keto-3-deoxy-D-glycero-D-galactonononic acid 9-phosphate	O[C@H]1C[C@@](O)(C(O)=O)OC([C@@H]([C@@H](OP(O)(O)=O)O)O)[C@@H]1O
+2'-deoxyribose-5-phosphate	C1[C@H]([C@H](O[C@H]1O)COP(=O)(O)O)O
+DL-2'-amino-3-phosphonopropinoic acid (APPA)	C(CN)C[P+](=O)O
+D-glucurononate-5-phosphate	O=C([C@H]([C@H]([C@@H]([C@@H](O)C(O)=O)O)O)OP(O)(O)=O)O
+2'-deoxy-D-glucose-6-phosphate	C1[C@H]([C@@H]([C@H](OC1O)COP(=O)(O)O)O)O
+2-deoxy-D-manno-2-octoulosonate-8-phosphate	O[C@H]1C[C@@](O)(C(O)=O)OC([C@@H](COP(O)(O)=O)O)[C@@H]1O
+2'-deoxy-6-phosphogluconate	C([C@H]([C@@H]([C@@H](COP(=O)(O)O)O)O)O)C(=O)O
+2'-deoxy-6-phosphoglucitol	C(CO)[C@@H](O)[C@H](O)[C@H](O)COP(=O)(O)O
+L-arabitol-5-phosphate	C([C@@H]([C@H]([C@H](COP(=O)([O-])[O-])O)O)O)O
+D-3'-deoxy-sorbitol-6-phosphate	O=P(O)(O)OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CO
+Glucosamine-6'-phosphate	C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)N)O)O)OP(=O)(O)O
+D-2'-keto-glucose-6-phosphate	O=C(C(=O))[C@@H](O)[C@H](O)[C@H](O)COP(=O)(O)O
+L-arabitol-1-phosphate	C([C@@H]([C@H]([C@H](CO)O)O)O)OP(=O)(O)O
+D-arabitol-1-phosphate	C([C@H]([C@@H]([C@@H](CO)O)O)O)OP(=O)(O)O
+3'-5' ADP	C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@H]([C@@H](O3)COP(=O)(O)O)OP(=O)(O)O)O)N
+2-keto-3-deoxy-6-phospho-gluconate (KDPG)	O[C@@H]([C@@H](O)CC(C(O)=O)=O)COP(O)(O)=O
+Uridine-5'-diphosphoglucuronic acid	C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)C(=O)O)O)O)O)O)O
+PNPP	C1=CC(=CC=C1[N+](=O)[O-])OP(=O)(O)O
+L-xylitol-3-phosphate	O=P(O)(O)O[C@@H]([C@H](O)CO)[C@H](O)CO
+2'-deoxy-D-glucose-6-phosphate	O[C@@H]([C@@H](O)[C@H](O)CC=O)COP(O)(O)=O
+D-allose-6-phosphate	O[C@@H]([C@@H](O)[C@@H](O)[C@@H](O)C=O)COP(O)(O)=O
+2'-deoxyribose-5-phosphate	O[C@@H]([C@@H](O)CC=O)COP(O)(O)=O
+D-arabinose-5-phosphate	O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@H](O)C=O
+D-mannose-6-phosphate	O[C@@H]([C@@H](O)[C@H](O)[C@@H](C=O)O)COP(O)(O)=O
+Glucosamine-6'-phosphate	N[C@H]([C@H]([C@@H]([C@@H](COP(O)(O)=O)O)O)O)C=O

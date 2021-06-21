@@ -1,0 +1,16 @@
+﻿cmpnd_abbrev,IUPAC,SMILES
+biotin,"4-nitrophenyl 5-((3aS,4S,6aR)-2-oxohexahydro-1H-thieno[3,4-d]imidazol-4-yl)pentanoate",O=[N+](C1=CC=C(OC(CCCC[C@H]2[C@]([H])([C@]([H])(CS2)N3)NC3=O)=O)C=C1)[O-]
+benzoate,4-nitrophenyl benzoate,C1=CC=C(C=C1)C(=O)OC2=CC=C(C=C2)[N+](=O)[O-]
+dodecanoate,4-nitrophenyl dodecanoate,O=[N+](C1=CC=C(OC(CCCCCCCCCCC)=O)C=C1)[O-]
+TMA,4-nitrophenyl pivalate,O=[N+](C1=CC=C(OC(C(C)(C)C)=O)C=C1)[O-]
+7Ph heptanoate,4-nitrophenyl 7-phenylheptanoate,O=[N+](C1=CC=C(OC(CCCCCCC2=CC=CC=C2)=O)C=C1)[O-]
+heptynoate,4-nitrophenyl hept-6-ynoate,O=[N+](C1=CC=C(OC(CCCCC#C)=O)C=C1)[O-]
+ClPh propionate,4-nitrophenyl 3-(4-chlorophenoxy)propanoate,O=[N+](C1=CC=C(OC(CCOC2=CC=C(Cl)C=C2)=O)C=C1)[O-]
+butoxy,4-nitrophenyl 2-(2-butoxyethoxy)acetate,O=C(OC1=CC=C([N+]([O-])=O)C=C1)COCCOCCCC
+azido,4-nitrophenyl 6-azidohexanoate,O=C(OC1=CC=C([N+]([O-])=O)C=C1)CCCCCN=[N+]=[N-]
+dimethyl,"4-nitrophenyl 2,2-dimethylhexanoate",CCCCC(C)(C)C(OC1=CC=C([N+]([O-])=O)C=C1)=O
+oxidazole,"4-nitrophenyl 3-(5-phenyl-1,3,4-oxadiazol-2-yl)propanoate",O=C(OC1=CC=C([N+]([O-])=O)C=C1)CCC2=NN=C(C3=CC=CC=C3)O2
+cyclopentyl,4-nitrophenyl 3-cyclopentylpropanoate,O=C(OC1=CC=C(C=C1)[N+]([O-])=O)CCC2CCCC2
+hexanoate,4-nitrophenyl hexanoate,CCCCCC(OC1=CC=C([N+]([O-])=O)C=C1)=O
+heptanoate,4-nitrophenyl heptanoate,CCCCCCC(OC1=CC=C([N+]([O-])=O)C=C1)=O
+decanoate,4-nitrophenyl decanoate,CCCCCCCCCC(OC1=CC=C([N+]([O-])=O)C=C1)=O

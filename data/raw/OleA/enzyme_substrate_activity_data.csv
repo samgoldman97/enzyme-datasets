@@ -1,0 +1,939 @@
+filename,cmpnd,org,log_slope
+output//2019-10-18/2019-10-18_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Arenimonas oryziterrae,1.8309722914770563
+output//2019-10-18/2019-10-18_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Brachybacterium paraconglomeratum,1.639611902926009
+output//2019-10-18/2019-10-18_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Chromatocurvus halotolerans,1.7737039300362771
+output//2019-10-18/2019-10-18_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Humibacillus sp. DSM 29435,1.7383954419927334
+output//2019-10-18/2019-10-18_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Kytococcus sedentarius,1.7190749753832015
+output//2019-10-18/2019-10-18_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Micromonospora peucetia,1.6826162146235542
+output//2019-10-18/2019-10-18_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Mobilicoccus massiliensis,1.7867431115207988
+output//2019-10-18/2019-10-18_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Pseudoxanthomonas,1.628171728133958
+output//2019-10-18/2019-10-18_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Thermomonas haemolytica,1.9640857129102294
+output//2019-10-18/2019-10-18_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,XC,1.6706366582892624
+output//2019-10-18/2019-10-18_TMA_all_data_calculated_slopes.csv,TMA,Actinoplanes atraurantiacus,1.935562473881014
+output//2019-10-18/2019-10-18_TMA_all_data_calculated_slopes.csv,TMA,Chromatocurvus halotolerans,0.9941820685701992
+output//2019-10-18/2019-10-18_TMA_all_data_calculated_slopes.csv,TMA,Granulosicoccus antarcticus,1.4490700598053106
+output//2019-10-18/2019-10-18_TMA_all_data_calculated_slopes.csv,TMA,Halobacteriovorax marinus,1.0815397390380697
+output//2019-10-18/2019-10-18_TMA_all_data_calculated_slopes.csv,TMA,Kytococcus sedentarius,1.6596116937812713
+output//2019-10-18/2019-10-18_TMA_all_data_calculated_slopes.csv,TMA,Mobilicoccus massiliensis,1.7518524849650416
+output//2019-10-18/2019-10-18_TMA_all_data_calculated_slopes.csv,TMA,Thermomonas haemolytica,0.8093993086474703
+output//2019-10-18/2019-10-18_TMA_all_data_calculated_slopes.csv,TMA,XC,1.2648237086452496
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Actinoplanes atraurantiacus,1.6985839354097092
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Arthrobacter globiformis,1.4452858569315736
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Cellulomonas cellasea,1.6336035821397903
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Chromatocurvus halotolerans,1.7326814024156563
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Clavibacter michiganensis,1.616824203209161
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Dermabacter hominis,1.8384614989751962
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Granulosicoccus antarcticus,2.0505153672999104
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Intrasporangiaceae bacterium URHB0013,1.1681116997404088
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Kineosphaera limosa,1.5281710601425185
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Kocuria varians,1.6562068039459668
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Kytococcus sedentarius,2.3436451846499287
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Micromonospora avicenniae,1.3909987931034262
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Micromonospora peucetia,1.5609095935481923
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Mobilicoccus massiliensis,1.9544329998629584
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Mycolicibacterium obuense,1.4117751710893187
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Nesterenkonia alba,1.2657250910911548
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Plantibacter sp. VKM Ac-1784,1.5267556998475484
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Pseudoxanthomonas,1.2727844584290782
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Sandaracinus amylolyticus,1.4623010922035378
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Sanguibacter keddieii,1.463634243731176
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Sediminihabitans luteus,1.574816959515765
+output//2019-10-25/2019-10-25_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Thermomonas haemolytica,1.7721793847336516
+output//2019-10-25/2019-10-25_ClPh propionate_all_data_calculated_slopes.csv,ClPh propionate,Actinoplanes atraurantiacus,1.7206295566968401
+output//2019-10-25/2019-10-25_ClPh propionate_all_data_calculated_slopes.csv,ClPh propionate,Cellulomonas cellasea,1.5522739672719343
+output//2019-10-25/2019-10-25_ClPh propionate_all_data_calculated_slopes.csv,ClPh propionate,Granulosicoccus antarcticus,1.9087904339537398
+output//2019-10-25/2019-10-25_ClPh propionate_all_data_calculated_slopes.csv,ClPh propionate,Humibacillus sp. DSM 29435,1.7418970344501827
+output//2019-10-25/2019-10-25_ClPh propionate_all_data_calculated_slopes.csv,ClPh propionate,Kocuria varians,1.6110497486209587
+output//2019-10-25/2019-10-25_ClPh propionate_all_data_calculated_slopes.csv,ClPh propionate,Kytococcus sedentarius,1.8434273649809398
+output//2019-10-25/2019-10-25_ClPh propionate_all_data_calculated_slopes.csv,ClPh propionate,Mobilicoccus massiliensis,1.8881739429849496
+output//2019-10-25/2019-10-25_ClPh propionate_all_data_calculated_slopes.csv,ClPh propionate,Mycolicibacterium obuense,1.6565958745957714
+output//2019-10-25/2019-10-25_ClPh propionate_all_data_calculated_slopes.csv,ClPh propionate,Nesterenkonia alba,1.6943660510936054
+output//2019-10-25/2019-10-25_ClPh propionate_all_data_calculated_slopes.csv,ClPh propionate,Plantibacter sp. VKM Ac-1784,1.5720484126292744
+output//2019-10-25/2019-10-25_ClPh propionate_all_data_calculated_slopes.csv,ClPh propionate,XC,1.8306694054601282
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Actinomycetospora chiangmaiensis,1.598283366486443
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Actinoplanes atraurantiacus,2.217150981857935
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Agreia bicolorata,1.8392373996313183
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Anaerocolumna xylanovorans,1.479544915982714
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Arenimonas oryziterrae,2.146706633946075
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Arthrobacter globiformis,2.170722683582341
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Auraticoccus monumenti,1.440129072738726
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Bacillus sp. 7586-K,1.7702764827905204
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Bacteriovorax sp. BAL6 X,1.4246429925427244
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Brachybacterium alimentarium,1.6526623943840304
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Brachybacterium paraconglomeratum,1.646313523623347
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Brevibacterium antiquum,1.7678497101562527
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Brevibacterium mcbrellneri,1.04440526351383
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Cellulomonas cellasea,1.8027865828089311
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Chlamydiales bacterium SCGC AG-110-P3,1.9165546515576075
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Chloroflexi bacterium RBG 13 51 36,1.2485577531065948
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Chromatocurvus halotolerans,2.31272312342835
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Citricoccus muralis,1.744904069079256
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Clavibacter michiganensis,1.7937800212516548
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Dermabacter hominis,2.216080002652176
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Dermatophilus congolensis,1.8601313111785969
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Enhygromyxa salina,1.6154587123496973
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Geodermatophilus obscurus,1.705282665742161
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Granulosicoccus antarcticus,2.704452867377391
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Halobacteriovorax marinus,1.6675210607673157
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Humibacillus sp. DSM 29435,1.8327071293459105
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Intrasporangiaceae bacterium URHB0013,1.5503906198283217
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Isoptericola variabilis,1.4620852849036885
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Kineosphaera limosa,1.445956680130474
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Kocuria flava,1.6942965022282204
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Kocuria varians,2.076633804877642
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Kytococcus sedentarius,2.772956817505329
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Legionella brunensis,1.6614151667774937
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Leifsonia sp. Leaf325,2.0171954544161443
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Luteimonas tolerans,2.0623107232958002
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Microlunatus phosphovorus,1.594359016478039
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Micromonospora avicenniae,1.514897495277498
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Micromonospora peucetia,2.2669077294120625
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Mobilicoccus massiliensis,2.489168645793911
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Mycolicibacterium obuense,1.805514890960595
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Nakamurella multipartita,1.8362074447668764
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Nesterenkonia alba,1.795766949311566
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Okibacterium fritillariae,2.0742636775907064
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Paenibacillus polysaccharolyticus,1.5429503630648245
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Pelobacter propionicus DSM 2379,1.195013776934808
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Plantibacter sp. VKM Ac-1784,2.1184512845741104
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Pseudoxanthomonas,2.155341924827609
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Psychromonas aquimarina,1.5938129647000259
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Rothia mucilaginosa,1.7153663858100052
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Saccharothrix espanaensis,1.1859310260614724
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Sandaracinus amylolyticus,1.8269290489476218
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Sanguibacter keddieii,1.9614826582132066
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Sediminihabitans luteus,1.9697846482836405
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Shewanella putrefaciens,1.297301797950289
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Silanimonas lenta,1.9608351312824917
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Streptococcus pneumoniae,1.1545903514739055
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Streptomyces avermitilis,1.7984046705151948
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Subtercola sp. Z020,1.872516773447571
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Thermomonas haemolytica,2.280554197888013
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Wenzhouxiangella sediminis,1.674528742714696
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,Xanthomonas translucens,2.114978608014264
+output//2019-10-25/2019-10-25_heptynoate_all_data_calculated_slopes.csv,heptynoate,XC,2.0206122181840995
+output//2019-11-01/2019-11-01_Biotin_all_data_calculated_slopes.csv,biotin,Granulosicoccus antarcticus,1.7162314099078209
+output//2019-11-01/2019-11-01_Biotin_all_data_calculated_slopes.csv,biotin,Kytococcus sedentarius,1.5893343683784322
+output//2019-11-01/2019-11-01_Biotin_all_data_calculated_slopes.csv,biotin,Actinoplanes atraurantiacus,1.251859254807923
+output//2019-11-01/2019-11-01_Biotin_all_data_calculated_slopes.csv,biotin,Kocuria flava,1.1467376960090334
+output//2019-11-01/2019-11-01_Biotin_all_data_calculated_slopes.csv,biotin,Halobacteriovorax marinus,1.1458583697116005
+output//2019-11-01/2019-11-01_Biotin_all_data_calculated_slopes.csv,biotin,Subtercola sp. Z020,1.0443726878908184
+output//2019-11-01/2019-11-01_Biotin_all_data_calculated_slopes.csv,biotin,Kocuria varians,0.9280673991936703
+output//2019-11-01/2019-11-01_Biotin_all_data_calculated_slopes.csv,biotin,Intrasporangiaceae bacterium URHB0013,0.855468051339578
+output//2019-11-01/2019-11-01_Biotin_all_data_calculated_slopes.csv,biotin,Isoptericola variabilis,0.8138447541307154
+output//2019-11-01/2019-11-01_Biotin_all_data_calculated_slopes.csv,biotin,Dermabacter hominis,0.8000452349372857
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Actinoplanes atraurantiacus,2.0363037439859912
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Agrococcus casei,1.3217431331794713
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Anaerocolumna xylanovorans,1.468848209724024
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Arenimonas oryziterrae,2.101892638944637
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Arthrobacter globiformis,2.2902050459395564
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Auraticoccus monumenti,2.114256509773592
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Bacteriovorax sp. BAL6 X,1.9081537428908213
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Bacteroides luti,1.4458426531364836
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Brachybacterium paraconglomeratum,1.6289472139596963
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Brevibacterium mcbrellneri,1.384961017769499
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Cephaloticoccus capnophilus,1.6146631480429852
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Chromatocurvus halotolerans,1.5858982312964462
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Clavibacter michiganensis,1.3810779454016129
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Clostridium combesii,1.9023936879915908
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Dermabacter hominis,2.315961738564802
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Desulfobacter curvatus,1.8556728036293724
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Frankiales bacterium YIM 75000,1.5465997057744654
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Geodermatophilus obscurus,1.8844875069044165
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Granulosicoccus antarcticus,2.504159989041647
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Intrasporangiaceae bacterium URHB0013,1.8048777210174927
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Kineosphaera limosa,1.4828605048938874
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Kocuria flava,0.873801883443014
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Kytococcus sedentarius,2.908475939962973
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Luteimonas tolerans,1.9999637788666682
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Micromonospora avicenniae,1.4024819501650188
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Mobilicoccus massiliensis,2.394259402808562
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Mycolicibacterium obuense,1.6176426383701608
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Nakamurella multipartita,1.784420509976391
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Nonomuraea candida,1.8252042860431474
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Paenibacillus polysaccharolyticus,1.6265989238259477
+output//2019-11-01/2019-11-01_Butoxy_all_data_calculated_slopes.csv,butoxy,Pelobacter propionicus DSM 2379,1.7593447564429683
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Actinoplanes atraurantiacus,1.8108033307488873
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Arenimonas oryziterrae,1.9729569164855418
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Arthrobacter globiformis,1.910035022393131
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Auraticoccus monumenti,1.5751238059271588
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Bacteriovorax sp. BAL6 X,1.6882773215912654
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Brachybacterium alimentarium,1.7116625760546307
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Cephaloticoccus capnophilus,1.3761066165411728
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Chromatocurvus halotolerans,1.8976661610946872
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Dermabacter hominis,2.0209598381592557
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Dermatophilus congolensis,1.5797919220517995
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Enhygromyxa salina,1.5138318656962688
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Geodermatophilus obscurus,1.3969662865180335
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Granulosicoccus antarcticus,2.372358744666914
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Halobacteriovorax marinus,1.4677580616916148
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Humibacillus sp. DSM 29435,1.8239897680171826
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Intrasporangiaceae bacterium URHB0013,1.9479912655381348
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Isoptericola variabilis,1.086990784576204
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Kocuria flava,1.6673239173715295
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Kocuria varians,2.1469175940157714
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Kytococcus sedentarius,2.8921787472704388
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Leifsonia sp. Leaf325,1.6148251795078938
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Luteimonas tolerans,1.8473059261263791
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Microlunatus phosphovorus,1.4447737632895457
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Micromonospora peucetia,1.940594609074407
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Mobilicoccus massiliensis,2.3961831337132278
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Pelobacter propionicus DSM 2379,1.2721809438186995
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Pseudoxanthomonas,2.004031451437656
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Sandaracinus amylolyticus,1.5424241746561314
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Sanguibacter keddieii,1.3606880184371102
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Silanimonas lenta,1.7016778774801813
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Streptomyces ambofaciens,1.4650225181950574
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Thermomonas haemolytica,2.287286561414609
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,Xanthomonas translucens,2.15676050083113
+output//2019-11-08/2019-11-08_Azido_all_data_calculated_slopes.csv,azido,XC,2.033827514014855
+output//2019-11-08/2019-11-08_decanoate_all_data_calculated_slopes.csv,decanoate,Kytococcus sedentarius,2.182984967003582
+output//2019-11-08/2019-11-08_decanoate_all_data_calculated_slopes.csv,decanoate,Granulosicoccus antarcticus,1.9334872878487055
+output//2019-11-08/2019-11-08_decanoate_all_data_calculated_slopes.csv,decanoate,Dermabacter hominis,1.8887409606828927
+output//2019-11-08/2019-11-08_decanoate_all_data_calculated_slopes.csv,decanoate,Kocuria varians,1.7993405494535817
+output//2019-11-08/2019-11-08_decanoate_all_data_calculated_slopes.csv,decanoate,Thermomonas haemolytica,1.675778341674085
+output//2019-11-08/2019-11-08_decanoate_all_data_calculated_slopes.csv,decanoate,Arthrobacter globiformis,1.658964842664435
+output//2019-11-08/2019-11-08_decanoate_all_data_calculated_slopes.csv,decanoate,Mobilicoccus massiliensis,1.6354837468149122
+output//2019-11-08/2019-11-08_decanoate_all_data_calculated_slopes.csv,decanoate,XC,1.541579243946581
+output//2019-11-08/2019-11-08_decanoate_all_data_calculated_slopes.csv,decanoate,Chromatocurvus halotolerans,1.3463529744506386
+output//2019-11-08/2019-11-08_decanoate_all_data_calculated_slopes.csv,decanoate,Actinoplanes atraurantiacus,1.2253092817258628
+output//2019-11-08/2019-11-08_decanoate_all_data_calculated_slopes.csv,decanoate,Isoptericola variabilis,1.1205739312058498
+output//2019-11-08/2019-11-08_dimethyl_all_data_calculated_slopes.csv,dimethyl,Actinoplanes atraurantiacus,1.4874952708635851
+output//2019-11-08/2019-11-08_dimethyl_all_data_calculated_slopes.csv,dimethyl,Kocuria varians,1.642703263023132
+output//2019-11-08/2019-11-08_dimethyl_all_data_calculated_slopes.csv,dimethyl,Granulosicoccus antarcticus,1.6000280441399042
+output//2019-11-08/2019-11-08_dimethyl_all_data_calculated_slopes.csv,dimethyl,Mobilicoccus massiliensis,1.7859462499092975
+output//2019-11-08/2019-11-08_dimethyl_all_data_calculated_slopes.csv,dimethyl,Kytococcus sedentarius,1.713590961136086
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Actinoplanes atraurantiacus,1.6030618585297094
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Arenimonas oryziterrae,1.7566063972517336
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Arthrobacter globiformis,1.9899495751714429
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Auraticoccus monumenti,1.5024055823536568
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Brachybacterium alimentarium,1.4735597190210308
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Granulosicoccus antarcticus,2.5004715204712293
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Intrasporangiaceae bacterium URHB0013,1.8157476091825637
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Kocuria varians,1.8571298015077442
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Kytococcus sedentarius,2.7294141937768543
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Micromonospora avicenniae,1.087682030023193
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Micromonospora peucetia,1.9867084684414573
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Mobilicoccus massiliensis,2.531967455667741
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Paenibacillus polysaccharolyticus,1.4766493091196529
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Sediminihabitans luteus,1.1675245748458785
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Silanimonas lenta,1.6390663050091505
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Thermomonas haemolytica,1.9897916224069425
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,Xanthomonas translucens,1.829308758432663
+output//2019-11-08/2019-11-08_heptynoate_biorep2_all_data_calculated_slopes.csv,heptynoate,XC,1.9884753581886128
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Actinoplanes atraurantiacus,1.555192959716579
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Agreia bicolorata,1.5092867264551797
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Arenimonas oryziterrae,1.6246877463843572
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Arthrobacter globiformis,2.0006119885984153
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Bacteriovorax sp. BAL6 X,1.4981225773549725
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Cellulomonas cellasea,1.3313564096032935
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Chromatocurvus halotolerans,1.825054638330165
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Clostridium combesii,1.6010452064674703
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Dermabacter hominis,2.1173266686165033
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Geodermatophilus obscurus,1.70372744299598
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Granulosicoccus antarcticus,2.2650457374424837
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Humibacillus sp. DSM 29435,1.4160370136553513
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Intrasporangiaceae bacterium URHB0013,1.8677816884438112
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Kineosphaera limosa,1.4583269083366823
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Kytococcus sedentarius,2.822970253980305
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Luteimonas tolerans,1.8817575199230476
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Micromonospora peucetia,1.7581157211308631
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Mobilicoccus massiliensis,2.183282372552709
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Mycolicibacterium obuense,1.5351286539182243
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Paenibacillus polysaccharolyticus,1.344582548842854
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Pseudoxanthomonas,1.7832902119927856
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Psychromonas aquimarina,1.6629152333993507
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Rothia mucilaginosa,1.2487264087639462
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Sanguibacter keddieii,1.7412672554657118
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Silanimonas lenta,1.8336291851117592
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Thermomonas haemolytica,2.146055361104278
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Virgibacillus salinus,1.1518658570032392
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,Xanthomonas translucens,2.2931268617261584
+output//2019-11-15/2019-11-15_azido_all_data_calculated_slopes.csv,azido,XC,2.154990255758316
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Kytococcus sedentarius,3.068916358027095
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Kocuria flava,2.7174965588007787
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Nesterenkonia alba,2.682531601672677
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Frankiales bacterium YIM 75000,2.646712216331604
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Thermomonas haemolytica,2.646311409250502
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Leifsonia sp. Leaf325,2.6366203731083773
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Kocuria varians,2.630924626133496
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Okibacterium fritillariae,2.6046359326195336
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Subtercola sp. Z020,2.5844903422650534
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Xanthomonas translucens,2.5786723568281764
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Chromatocurvus halotolerans,2.5621007823774606
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Streptomyces ambofaciens,2.55710686712328
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Granulosicoccus antarcticus,2.540289156561149
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Arenimonas oryziterrae,2.5239115368867306
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Sediminihabitans luteus,2.501664515742554
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Micromonospora peucetia,2.4812172888331294
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Clavibacter michiganensis,2.4689049115460198
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Wenzhouxiangella sediminis,2.445733740659656
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Kineosphaera limosa,2.444203747507975
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Pseudoxanthomonas,2.4427965029448004
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Humibacillus sp. DSM 29435,2.4422836449834775
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Psychromonas aquimarina,2.4408701547791654
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Actinoplanes atraurantiacus,2.439581159303266
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Sandaracinus amylolyticus,2.4314370847347337
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Enhygromyxa salina,2.4091035725445655
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Geodermatophilus obscurus,2.4007145249327566
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Agreia bicolorata,2.3995836411119726
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Citricoccus muralis,2.3987335415365956
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Streptomyces avermitilis,2.397739650993029
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Nakamurella multipartita,2.3967434806952554
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Arthrobacter globiformis,2.3763246349872067
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Dermatophilus congolensis,2.359579410654428
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Microlunatus phosphovorus,2.279535937197765
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Bacteriovorax sp. BAL6 X,2.265887589714116
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Mobilicoccus massiliensis,2.241021525138258
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Luteimonas tolerans,2.221417341686773
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Brevibacterium mcbrellneri,2.201779937342707
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Allokutzneria albata,2.182964028124187
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Intrasporangiaceae bacterium URHB0013,2.139228363265639
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Bacillus sp. 7586-K,2.1369021262876626
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Chlamydiales bacterium SCGC AG-110-P3,2.0548476317081024
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Cellulomonas cellasea,2.0376044905768147
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Paenibacillus polysaccharolyticus,2.02855293273093
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Saccharothrix espanaensis,2.02487881791183
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Actinomycetospora chiangmaiensis,1.9892423234528636
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Auraticoccus monumenti,1.9740511191466166
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Isoptericola variabilis,1.9689305572021258
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Silanimonas lenta,1.9391240118610606
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Virgibacillus salinus,1.86994091780095
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Micromonospora avicenniae,1.8607389062415305
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Clostridium combesii,1.8389066840609802
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Brachybacterium alimentarium,1.8295414805853518
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Mycolicibacterium obuense,1.7998880752631998
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Nonomuraea candida,1.7899202233701084
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Rothia mucilaginosa,1.5405705928018705
+output//2019-11-15/2019-11-15_butoxy_all_data_calculated_slopes.csv,butoxy,Agrococcus casei,1.5273265060636905
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Actinoplanes atraurantiacus,2.100209858933093
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Agreia bicolorata,1.3342022407180085
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Agrococcus casei,1.5610371102654164
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Allokutzneria albata,1.3327784485970195
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Arenimonas oryziterrae,1.8649901073753583
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Arthrobacter globiformis,2.1413624219434317
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Auraticoccus monumenti,1.6346739926035343
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Bacillus sp. 7586-K,1.6073400330750165
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Bacteriovorax sp. BAL6 X,1.707735283747192
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Brachybacterium alimentarium,1.4495752795757804
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Cellulomonas cellasea,1.6907241911798117
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Chromatocurvus halotolerans,1.9059286104474513
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Dermabacter hominis,2.2144948412284635
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Enhygromyxa salina,1.5055704667973917
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Granulosicoccus antarcticus,2.4859328802019944
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Halobacteriovorax marinus,1.727551050514147
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Intrasporangiaceae bacterium URHB0013,1.9440726600670755
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Kocuria flava,1.5600023513100356
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Kocuria varians,1.5442200325456799
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Kytococcus sedentarius,2.554021207706136
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Luteimonas tolerans,1.9150877396068284
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Micromonospora peucetia,1.4191619091743324
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Mobilicoccus massiliensis,2.4275498389219217
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Mycolicibacterium obuense,1.5966899115404047
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Nakamurella multipartita,1.418407128359148
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Nonomuraea candida,1.2627409653569865
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Okibacterium fritillariae,1.6125526257679155
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Paenibacillus polysaccharolyticus,1.3737722480224734
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Plantibacter sp. VKM Ac-1784,1.710953714545666
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Pseudoxanthomonas,1.9916415187027077
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Psychromonas aquimarina,1.6911980861864815
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Rothia mucilaginosa,1.5334430362427969
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Sandaracinus amylolyticus,1.7058394846273306
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Sediminihabitans luteus,1.659652716036848
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Silanimonas lenta,2.2362056683675156
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Subtercola sp. Z020,1.765230181623206
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Thermomonas haemolytica,2.1308897525600305
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Xanthomonas translucens,2.0998678591604842
+output//2019-11-15/2019-11-15_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,XC,1.6055516846975741
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Kytococcus sedentarius,3.001519946043761
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Granulosicoccus antarcticus,2.7654531722626867
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Xanthomonas translucens,2.75929778853387
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Dermabacter hominis,2.6044566198593517
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Mobilicoccus massiliensis,2.550148771673187
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,XC,2.518233735929293
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Thermomonas haemolytica,2.5023066002645846
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Pseudoxanthomonas,2.474221377168008
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Actinoplanes atraurantiacus,2.4463508597575645
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Arthrobacter globiformis,2.3776835376838124
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Luteimonas tolerans,2.3755742598409784
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Intrasporangiaceae bacterium URHB0013,2.353063151270671
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Chromatocurvus halotolerans,2.2953205829409833
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Silanimonas lenta,2.224173976525307
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Micromonospora peucetia,2.084873138027546
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Kocuria flava,2.0648311078242636
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Arenimonas oryziterrae,1.8616560053784992
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Humibacillus sp. DSM 29435,1.7744720407009775
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Halobacteriovorax marinus,1.7353001611471262
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Brachybacterium alimentarium,1.6021389899121339
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Okibacterium fritillariae,1.5763930487776039
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Geodermatophilus obscurus,1.5646122094853854
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Plantibacter sp. VKM Ac-1784,1.4763118542979035
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Cellulomonas cellasea,1.4696985571593981
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Brachybacterium paraconglomeratum,1.4294365237489108
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Bacteriovorax sp. BAL6 X,1.1280123998746499
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Rothia mucilaginosa,0.9366728904205632
+output//2019-11-15/2019-11-15_heptanoate_all_data_calculated_slopes.csv,heptanoate,Mycolicibacterium obuense,0.9019137870722158
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Chromatocurvus halotolerans,2.163397393745453
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Thermomonas haemolytica,2.091612005342543
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Arthrobacter globiformis,1.9241378422667648
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Dermabacter hominis,1.8763250123867496
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Mobilicoccus massiliensis,1.8686179818411652
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Actinoplanes atraurantiacus,1.7195959504456217
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Kytococcus sedentarius,1.6977219453566832
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Legionella brunensis,1.6658595005597174
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Kocuria flava,1.6248194928401536
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Okibacterium fritillariae,1.609344218217091
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Sandaracinus amylolyticus,1.5982884620792928
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Kocuria varians,1.5914431849921449
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Cephaloticoccus capnophilus,1.5834403349493664
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Plantibacter sp. VKM Ac-1784,1.5643508653997216
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Luteimonas tolerans,1.4760500919996589
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Agreia bicolorata,1.4551169692786783
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Arenimonas oryziterrae,1.449014297741362
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Leifsonia sp. Leaf325,1.423625441321376
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Auraticoccus monumenti,1.4117109053334498
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Mycolicibacterium obuense,1.3981586923693108
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Xanthomonas translucens,1.341774586219618
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Paenibacillus polysaccharolyticus,1.330903936691016
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Enhygromyxa salina,1.3237409342832802
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Nakamurella multipartita,1.3179931381606287
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Intrasporangiaceae bacterium URHB0013,1.2537760833981253
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Pelobacter propionicus DSM 2379,1.2367032928528703
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Shewanella putrefaciens,1.2273890669569893
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Silanimonas lenta,1.2086367013797688
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Wenzhouxiangella sediminis,1.2078039043191258
+output//2019-11-15/2019-11-15_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Agrococcus casei,1.1299850795081683
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Actinomycetospora chiangmaiensis,1.4377026499702754
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Actinoplanes atraurantiacus,1.7756853517664806
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Arenimonas oryziterrae,1.235285827384939
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Arthrobacter globiformis,1.8826210659858726
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Auraticoccus monumenti,1.3618281851602874
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Brachybacterium alimentarium,1.7577110493285084
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Brachybacterium paraconglomeratum,1.6055027661411552
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Cellulomonas cellasea,1.6404147674228349
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Dermabacter hominis,2.114240222054191
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Granulosicoccus antarcticus,2.308553716127946
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Halobacteriovorax marinus,1.2816797477812925
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Humibacillus sp. DSM 29435,1.4595035555027536
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Isoptericola variabilis,1.4754702090712857
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Kocuria varians,1.9280919710269153
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Kytococcus sedentarius,2.295575176790801
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Leifsonia sp. Leaf325,1.5620829937292486
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Luteimonas tolerans,1.6593497404812814
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Micromonospora peucetia,1.7421632701284824
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Mobilicoccus massiliensis,2.0311972102652325
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Nesterenkonia alba,1.164188043363202
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Okibacterium fritillariae,1.6812358750356615
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Paenibacillus polysaccharolyticus,1.193772631597305
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Plantibacter sp. VKM Ac-1784,1.641264239776873
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Sediminihabitans luteus,1.1834873216533481
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Streptomyces ambofaciens,1.6533363640969574
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Subtercola sp. Z020,1.6702480429532147
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Thermomonas haemolytica,1.2366607220256194
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Virgibacillus salinus,1.524400926757534
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Wenzhouxiangella sediminis,1.6919525564874667
+output//2019-11-22/2019-11-22_7Ph heptanoate_all_data_calculated_slopes.csv,7Ph heptanoate,Xanthomonas translucens,1.1839396108221467
+output//2019-11-22/2019-11-22_biotin_all_data_calculated_slopes.csv,biotin,Granulosicoccus antarcticus,1.6268824151593497
+output//2019-11-22/2019-11-22_biotin_all_data_calculated_slopes.csv,biotin,Kytococcus sedentarius,1.52511977514056
+output//2019-11-22/2019-11-22_biotin_all_data_calculated_slopes.csv,biotin,Halobacteriovorax marinus,1.012032955184932
+output//2019-11-22/2019-11-22_biotin_all_data_calculated_slopes.csv,biotin,Actinoplanes atraurantiacus,0.7375033190001742
+output//2019-11-22/2019-11-22_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Granulosicoccus antarcticus,1.8341703171936474
+output//2019-11-22/2019-11-22_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Mobilicoccus massiliensis,1.7728647685033747
+output//2019-11-22/2019-11-22_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Mycolicibacterium obuense,1.6859924431782596
+output//2019-11-22/2019-11-22_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Halobacteriovorax marinus,1.203889802274109
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Actinomycetospora chiangmaiensis,1.1855030981207508
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Actinoplanes atraurantiacus,1.7758043266405397
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Agreia bicolorata,1.4120311028579196
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Allokutzneria albata,1.5845238084704403
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Arthrobacter globiformis,1.841130069911701
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Brachybacterium alimentarium,1.5534096149123358
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Cellulomonas cellasea,1.680191424122536
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Dermabacter hominis,1.96887624716493
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Desulfobulbus elongatus,1.460366512013061
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Granulosicoccus antarcticus,2.4596561700064723
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Halobacteriovorax marinus,1.7137396491073251
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Intrasporangiaceae bacterium URHB0013,1.8615806271915711
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Kocuria varians,1.883694014230543
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Kytococcus sedentarius,2.2141962324339874
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Luteimonas tolerans,1.7343742887709348
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Mobilicoccus massiliensis,2.4455230196541393
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Mycolicibacterium obuense,1.5989984146641691
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Okibacterium fritillariae,1.6272957864209596
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Plantibacter sp. VKM Ac-1784,1.6812443591966741
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Pseudoxanthomonas,1.6362873949179901
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Shewanella putrefaciens,1.5313165054885225
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Silanimonas lenta,1.6548279156210928
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Thermomonas haemolytica,1.8666944358455195
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Xanthomonas translucens,1.9069912866896837
+output//2019-11-22/2019-11-22_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,XC,1.8483195003384754
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Arthrobacter globiformis,1.2163793661125633
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Brachybacterium alimentarium,1.5512487505783426
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Brachybacterium paraconglomeratum,1.4346003435761274
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Chromatocurvus halotolerans,1.7858065669921528
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Dermabacter hominis,1.3329971369545184
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Granulosicoccus antarcticus,2.0868258513692606
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Halobacteriovorax marinus,1.260374647011366
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Kytococcus sedentarius,2.308123148520189
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Luteimonas tolerans,1.3865954280652784
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Mobilicoccus massiliensis,1.581004820048117
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Mycolicibacterium obuense,1.2924028181567366
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Okibacterium fritillariae,1.3067261139740396
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Streptococcus pneumoniae,1.2416046125643165
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Virgibacillus salinus,1.3298256433028672
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,Xanthomonas translucens,1.3737443721054072
+output//2019-11-22/2019-11-22_decanoate rep-1_all_data_calculated_slopes.csv,decanoate,XC,1.4726002572878316
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Granulosicoccus antarcticus,2.249044402331307
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Kytococcus sedentarius,2.189398449433559
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Chromatocurvus halotolerans,1.9244742464272442
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Dermabacter hominis,1.918847767348327
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Thermomonas haemolytica,1.8062759227309422
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Mobilicoccus massiliensis,1.7806754732274608
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Kocuria varians,1.7070471237990796
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Xanthomonas translucens,1.6718820007903497
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Agreia bicolorata,1.4802187906463369
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Subtercola sp. Z020,1.4754412002229973
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,XC,1.46443659663469
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Mycolicibacterium obuense,1.4269384889027747
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Arthrobacter globiformis,1.3034157191274292
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Cellulomonas cellasea,1.287837975174095
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Actinoplanes atraurantiacus,1.2727012862388256
+output//2019-11-22/2019-11-22_decanoate rep-2_all_data_calculated_slopes.csv,decanoate,Kocuria flava,1.2517675760602787
+output//2019-11-22/2019-11-22_dimethyl_all_data_calculated_slopes.csv,dimethyl,Granulosicoccus antarcticus,1.6734235584525403
+output//2019-11-22/2019-11-22_dimethyl_all_data_calculated_slopes.csv,dimethyl,Mobilicoccus massiliensis,1.5371867352407036
+output//2019-11-22/2019-11-22_dimethyl_all_data_calculated_slopes.csv,dimethyl,Kytococcus sedentarius,1.215693526663822
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Granulosicoccus antarcticus,2.0177817905197224
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Kytococcus sedentarius,1.9954769146804554
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Mycolicibacterium obuense,1.9714574908224691
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Kocuria varians,1.876816593505429
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Luteimonas tolerans,1.8757593587099939
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Thermomonas haemolytica,1.8265678772903189
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Brachybacterium alimentarium,1.8254428761675943
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Arenimonas oryziterrae,1.7543922334783901
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Streptococcus pneumoniae,1.647266661734435
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Plantibacter sp. VKM Ac-1784,1.6314407047054018
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,XC,1.6271702118072062
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Arthrobacter globiformis,1.6187296314783173
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Okibacterium fritillariae,1.5932858322572196
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Pseudoxanthomonas,1.5352354918717064
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Cellulomonas cellasea,1.5122933356271222
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Subtercola sp. Z020,1.4811597755019863
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Nesterenkonia alba,1.4719801188010206
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Kocuria flava,1.4540198565808646
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Xanthomonas translucens,1.4248359854513803
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Cephaloticoccus capnophilus,1.420733761795898
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Agreia bicolorata,1.2921498575659105
+output//2019-11-22/2019-11-22_dodecanoate_all_data_calculated_slopes.csv,dodecanoate,Leifsonia sp. Leaf325,1.2223216530033951
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Kytococcus sedentarius,2.8944560896683185
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Granulosicoccus antarcticus,2.694667041912079
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Xanthomonas translucens,2.4265844612929603
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,XC,2.416262027202045
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Mobilicoccus massiliensis,2.413239206563232
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Dermabacter hominis,2.3088924683711927
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Thermomonas haemolytica,2.288967578029328
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Kocuria varians,2.226395442346494
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Pseudoxanthomonas,2.195710291498909
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Arthrobacter globiformis,2.166555011470553
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Luteimonas tolerans,2.1411822049252627
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Chromatocurvus halotolerans,2.126173050533549
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Intrasporangiaceae bacterium URHB0013,2.1247066772260514
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Arenimonas oryziterrae,1.9902748667749381
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Micromonospora peucetia,1.9479694606511044
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Halobacteriovorax marinus,1.744988458935207
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Actinoplanes atraurantiacus,1.739180954617468
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Okibacterium fritillariae,1.738567251164944
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Kocuria flava,1.702870749269375
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Cellulomonas cellasea,1.6713025535398758
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Silanimonas lenta,1.6603418368643772
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Brachybacterium alimentarium,1.6193999289966683
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Plantibacter sp. VKM Ac-1784,1.6100262749377865
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Brachybacterium paraconglomeratum,1.4305325441412504
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Humibacillus sp. DSM 29435,1.4034190284258146
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Subtercola sp. Z020,1.3840109042976192
+output//2019-11-22/2019-11-22_heptanoate_all_data_calculated_slopes.csv,heptanoate,Mycolicibacterium obuense,1.2295113951393168
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Granulosicoccus antarcticus,1.7253677611877634
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Chromatocurvus halotolerans,1.6549256668432943
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Kytococcus sedentarius,1.6396445203912786
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Okibacterium fritillariae,1.6201319023989162
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Arthrobacter globiformis,1.576460944457198
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Dermabacter hominis,1.5401831560562227
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Mobilicoccus massiliensis,1.5372044083859013
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Thermomonas haemolytica,1.4988816012022435
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Auraticoccus monumenti,1.4745984329462534
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Bacteriovorax sp. BAL6 X,1.444700821732596
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Luteimonas tolerans,1.4141493616401557
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Sandaracinus amylolyticus,1.399950302928374
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Actinoplanes atraurantiacus,1.3584964739332828
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Dermatophilus congolensis,1.3032560229160954
+output//2019-11-22/2019-11-22_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Kocuria flava,1.2884325586351613
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Actinoplanes atraurantiacus,1.8964414799110996
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Granulosicoccus antarcticus,1.8901399300013904
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Kytococcus sedentarius,1.7241666713753017
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Kocuria varians,1.5943006951901362
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Chromatocurvus halotolerans,1.5725286835748948
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Mobilicoccus massiliensis,1.5523547300975744
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,XC,1.4032538130354468
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Rothia mucilaginosa,1.236297839119283
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Thermomonas haemolytica,1.234609776190421
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Cellulomonas cellasea,1.1507329345027804
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Plantibacter sp. VKM Ac-1784,1.133266982578129
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Dermabacter hominis,1.0644789841191413
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Xanthomonas translucens,1.0215822333014566
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Dermatophilus congolensis,1.0159019739309554
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Citricoccus muralis,0.9910394452673779
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Halobacteriovorax marinus,0.9415804528097417
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Silanimonas lenta,0.9290091797014771
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Okibacterium fritillariae,0.9067231117533922
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Sanguibacter keddieii,0.8996231965372086
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Geodermatophilus obscurus,0.88838772506346
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Luteimonas tolerans,0.8006137337875071
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Brachybacterium paraconglomeratum,0.8003172195644033
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Subtercola sp. Z020,0.6460856578233437
+output//2019-11-22/2019-11-22_TMA_all_data_calculated_slopes.csv,TMA,Pseudoxanthomonas,0.5535430944771103
+output//2019-12-13/2019-12-13_7Ph_all_data_calculated_slopes.csv,7Ph heptanoate,Granulosicoccus antarcticus,2.1525961289296296
+output//2019-12-13/2019-12-13_7Ph_all_data_calculated_slopes.csv,7Ph heptanoate,Kytococcus sedentarius,2.1479672993815213
+output//2019-12-13/2019-12-13_7Ph_all_data_calculated_slopes.csv,7Ph heptanoate,Actinoplanes atraurantiacus,1.7249053599087782
+output//2019-12-13/2019-12-13_7Ph_all_data_calculated_slopes.csv,7Ph heptanoate,Mobilicoccus massiliensis,1.65150978573561
+output//2019-12-13/2019-12-13_7Ph_all_data_calculated_slopes.csv,7Ph heptanoate,Mycolicibacterium obuense,1.353006176338163
+output//2019-12-13/2019-12-13_7Ph_all_data_calculated_slopes.csv,7Ph heptanoate,Psychromonas aquimarina,1.057287906935782
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Kytococcus sedentarius,2.929345337017079
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Xanthomonas translucens,2.507552183447555
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Mobilicoccus massiliensis,2.47495904885131
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Thermomonas haemolytica,2.3395033333159185
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Granulosicoccus antarcticus,2.303479237866055
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Chromatocurvus halotolerans,2.1950453549066067
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Luteimonas tolerans,2.188728750079265
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Pseudoxanthomonas,2.1640245365637125
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Micromonospora peucetia,2.163061054490036
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Kocuria varians,2.143153025124096
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Arenimonas oryziterrae,2.1259678322681905
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Intrasporangiaceae bacterium URHB0013,2.1220253119716026
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,XC,2.1153235888719504
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Kocuria flava,2.110825912353395
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Silanimonas lenta,2.0752951508857698
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Dermabacter hominis,2.0584879874813202
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Actinoplanes atraurantiacus,2.0573376409328796
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Leifsonia sp. Leaf325,2.010226437593993
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Arthrobacter globiformis,2.0044916483344544
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Sanguibacter keddieii,2.002261064626136
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Rothia mucilaginosa,2.0011501525394375
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Agreia bicolorata,1.994411726165534
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Humibacillus sp. DSM 29435,1.9839993089594303
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Mycolicibacterium obuense,1.9836582316235207
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Subtercola sp. Z020,1.967425070338496
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Micromonospora avicenniae,1.942807268762605
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Brachybacterium paraconglomeratum,1.9423299042749411
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Brachybacterium alimentarium,1.938147674690164
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Auraticoccus monumenti,1.9293090138439608
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Nakamurella multipartita,1.9290159587919649
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Microlunatus phosphovorus,1.9181398501561617
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Okibacterium fritillariae,1.9170051620649062
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Sediminihabitans luteus,1.9040259387580354
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Geodermatophilus obscurus,1.9035754587286533
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Wenzhouxiangella sediminis,1.896116981063196
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Clavibacter michiganensis,1.8868580629989802
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Bacteriovorax sp. BAL6 X,1.8862470977373864
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Sandaracinus amylolyticus,1.876068214230856
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Psychromonas aquimarina,1.874169830040816
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Frankiales bacterium YIM 75000,1.8734807763576797
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Cephaloticoccus capnophilus,1.8709381532479463
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Nonomuraea candida,1.8679826243654343
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Dermatophilus congolensis,1.8663398341374398
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Kineosphaera limosa,1.8550211251293265
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Clostridium combesii,1.853806282911679
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Enhygromyxa salina,1.8483129416430994
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Bacillus sp. 7586-K,1.8314253052366802
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Chlamydiales bacterium SCGC AG-110-P3,1.8238467957105882
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Saccharothrix espanaensis,1.8168478144221156
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Streptomyces ambofaciens,1.8106629996549246
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Paenibacillus polysaccharolyticus,1.8042833569927006
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Streptomyces avermitilis,1.7926827933691023
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Streptococcus pneumoniae,1.7893880302137628
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Plantibacter sp. VKM Ac-1784,1.7774975667508117
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Virgibacillus salinus,1.764968811492972
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Brevibacterium mcbrellneri,1.7629840375688879
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Cellulomonas cellasea,1.7602038606595467
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Citricoccus muralis,1.7564690530036213
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Legionella brunensis,1.75182545838485
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Brevibacterium antiquum,1.7449649714936644
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Agrococcus casei,1.731048811924442
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Actinomycetospora chiangmaiensis,1.7228137276395186
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Isoptericola variabilis,1.6908425219669332
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Halobacteriovorax marinus,1.6538008967391322
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Desulfobacter curvatus,1.6386163698235616
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Nesterenkonia alba,1.5900585319414444
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Anaerocolumna xylanovorans,1.5876011318603531
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Desulfobulbus elongatus,1.5803668873799335
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Pelobacter propionicus DSM 2379,1.5746837339050073
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Bacteroides luti,1.5216762073139645
+output//2019-12-13/2019-12-13_azido_all_data_calculated_slopes.csv,azido,Chloroflexi bacterium RBG 13 51 36,1.3567962470866028
+output//2019-12-13/2019-12-13_biotin_all_data_calculated_slopes.csv,biotin,Kytococcus sedentarius,1.8321859329122252
+output//2019-12-13/2019-12-13_biotin_all_data_calculated_slopes.csv,biotin,Granulosicoccus antarcticus,1.61671003204534
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Kytococcus sedentarius,2.9276939023931785
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Granulosicoccus antarcticus,2.686168069817813
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Dermabacter hominis,2.5881506740691718
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Arthrobacter globiformis,2.57905004549763
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Auraticoccus monumenti,2.4747662017919962
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Actinoplanes atraurantiacus,2.4616192625198203
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Mobilicoccus massiliensis,2.4456485706831845
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Halobacteriovorax marinus,2.104098911380376
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Intrasporangiaceae bacterium URHB0013,2.0758979609771315
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Luteimonas tolerans,2.0151410557076046
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Brachybacterium paraconglomeratum,2.0017119903840097
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Bacteriovorax sp. BAL6 X,1.9603846920299424
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Brachybacterium alimentarium,1.9299588790665243
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Mycolicibacterium obuense,1.9012610994277257
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,XC,1.8763059186591595
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Brevibacterium antiquum,1.8669794454298139
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Psychromonas aquimarina,1.8636544419889025
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Chloroflexi bacterium RBG 13 51 36,1.6061940507374244
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Desulfobulbus elongatus,1.603631833972826
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Micromonospora avicenniae,1.592750248296432
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Rothia mucilaginosa,1.576645349183853
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Shewanella putrefaciens,1.4621049600339064
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Agrococcus casei,1.4156997520050578
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Pelobacter propionicus DSM 2379,1.4047597659410431
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Plantibacter sp. VKM Ac-1784,1.3334829854882944
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Streptococcus pneumoniae,1.3273475426322732
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Saccharothrix espanaensis,1.3211241784671721
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Kocuria flava,1.2919597312610138
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Paenibacillus polysaccharolyticus,1.2622358545316343
+output//2019-12-13/2019-12-13_butoxy_all_data_calculated_slopes.csv,butoxy,Clostridium combesii,1.1880506559771127
+output//2019-12-13/2019-12-13_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Granulosicoccus antarcticus,2.0897989672904003
+output//2019-12-13/2019-12-13_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Mobilicoccus massiliensis,1.908938326842672
+output//2019-12-13/2019-12-13_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Actinoplanes atraurantiacus,1.4865700211039374
+output//2019-12-13/2019-12-13_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Kytococcus sedentarius,1.4521282684177401
+output//2019-12-13/2019-12-13_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Brachybacterium paraconglomeratum,1.37980742733685
+output//2019-12-13/2019-12-13_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Mycolicibacterium obuense,1.2716196647676434
+output//2019-12-13/2019-12-13_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Halobacteriovorax marinus,1.2627617246450096
+output//2019-12-13/2019-12-13_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Brevibacterium antiquum,1.195712454701987
+output//2019-12-13/2019-12-13_ClPh_all_data_calculated_slopes.csv,ClPh propionate,Chloroflexi bacterium RBG 13 51 36,1.1647830205078338
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Actinoplanes atraurantiacus,1.812228463556285
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Arenimonas oryziterrae,1.5769692197010425
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Arthrobacter globiformis,1.6792214900995939
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Auraticoccus monumenti,1.3651254059414601
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Bacteriovorax sp. BAL6 X,1.6293484394327984
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Brachybacterium alimentarium,1.2896465615958077
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Brachybacterium paraconglomeratum,1.3153086909060998
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Chromatocurvus halotolerans,1.4531214288064906
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Dermabacter hominis,1.5825421899513188
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Frankiales bacterium YIM 75000,1.1743445518946094
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Granulosicoccus antarcticus,2.3114982806537046
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Halobacteriovorax marinus,1.5192478197343402
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Intrasporangiaceae bacterium URHB0013,1.4258353289593284
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Kocuria flava,1.2635443592676399
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Kocuria varians,1.458045238787888
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Kytococcus sedentarius,2.462207258591404
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Luteimonas tolerans,1.611391617923657
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Mobilicoccus massiliensis,2.2502397888390386
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Nesterenkonia alba,1.2579351029815375
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Pseudoxanthomonas,1.6402927279445036
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Saccharothrix espanaensis,1.2003299567255157
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Silanimonas lenta,1.6381471047405043
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Thermomonas haemolytica,1.9175025255171938
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,Xanthomonas translucens,1.9830068306122248
+output//2019-12-13/2019-12-13_cyclopentyl_all_data_calculated_slopes.csv,cyclopentyl,XC,1.5060109508286432
+output//2019-12-13/2019-12-13_dimethyl_all_data_calculated_slopes.csv,dimethyl,Actinoplanes atraurantiacus,1.3559159137512085
+output//2019-12-13/2019-12-13_dimethyl_all_data_calculated_slopes.csv,dimethyl,Brachybacterium paraconglomeratum,2.0059887332681017
+output//2019-12-13/2019-12-13_dimethyl_all_data_calculated_slopes.csv,dimethyl,Brevibacterium antiquum,1.8433899893566958
+output//2019-12-13/2019-12-13_dimethyl_all_data_calculated_slopes.csv,dimethyl,Chloroflexi bacterium RBG 13 51 36,1.9579795616030453
+output//2019-12-13/2019-12-13_dimethyl_all_data_calculated_slopes.csv,dimethyl,Halobacteriovorax marinus,1.7907806815738243
+output//2019-12-13/2019-12-13_dimethyl_all_data_calculated_slopes.csv,dimethyl,Kytococcus sedentarius,1.5938276552678392
+output//2019-12-13/2019-12-13_dimethyl_all_data_calculated_slopes.csv,dimethyl,Mobilicoccus massiliensis,1.7649545551196115
+output//2019-12-13/2019-12-13_dodecanoate_1_all_data_calculated_slopes.csv,dodecanoate,Luteimonas tolerans,1.8497188593937637
+output//2019-12-13/2019-12-13_dodecanoate_1_all_data_calculated_slopes.csv,dodecanoate,Kytococcus sedentarius,1.7966136997929536
+output//2019-12-13/2019-12-13_dodecanoate_1_all_data_calculated_slopes.csv,dodecanoate,Arenimonas oryziterrae,1.756138626099255
+output//2019-12-13/2019-12-13_dodecanoate_1_all_data_calculated_slopes.csv,dodecanoate,Granulosicoccus antarcticus,1.6414541171831831
+output//2019-12-13/2019-12-13_dodecanoate_1_all_data_calculated_slopes.csv,dodecanoate,Thermomonas haemolytica,1.6082385162750372
+output//2019-12-13/2019-12-13_dodecanoate_1_all_data_calculated_slopes.csv,dodecanoate,Plantibacter sp. VKM Ac-1784,1.3382404704237454
+output//2019-12-13/2019-12-13_dodecanoate_2_all_data_calculated_slopes.csv,dodecanoate,Halobacteriovorax marinus,1.4258167401058497
+output//2019-12-13/2019-12-13_dodecanoate_2_all_data_calculated_slopes.csv,dodecanoate,Kocuria flava,1.1080091179444045
+output//2019-12-13/2019-12-13_dodecanoate_2_all_data_calculated_slopes.csv,dodecanoate,Pseudoxanthomonas,1.8281954091920496
+output//2019-12-13/2019-12-13_dodecanoate_2_all_data_calculated_slopes.csv,dodecanoate,Xanthomonas translucens,1.7137439133937356
+output//2019-12-13/2019-12-13_dodecanoate_3_all_data_calculated_slopes.csv,dodecanoate,Arenimonas oryziterrae,1.6029145191956595
+output//2019-12-13/2019-12-13_dodecanoate_3_all_data_calculated_slopes.csv,dodecanoate,Chromatocurvus halotolerans,1.5490573795918363
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Kytococcus sedentarius,2.9762345457659993
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Xanthomonas translucens,2.829622975067319
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Granulosicoccus antarcticus,2.6603560630571557
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Mobilicoccus massiliensis,2.4512913505174803
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,XC,2.41108142693291
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Thermomonas haemolytica,2.3221393984062533
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Luteimonas tolerans,2.2978722213325833
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Pseudoxanthomonas,2.2851139971007557
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Chromatocurvus halotolerans,2.2318443892178084
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Arthrobacter globiformis,2.2034933577077136
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Dermabacter hominis,2.189190475364104
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Actinoplanes atraurantiacus,2.0874383369078515
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Arenimonas oryziterrae,2.0670755079825542
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Kocuria varians,1.9222607918351533
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Micromonospora peucetia,1.8931744966039121
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Silanimonas lenta,1.760516971076848
+output//2019-12-13/2019-12-13_heptanoate_all_data_calculated_slopes.csv,heptanoate,Intrasporangiaceae bacterium URHB0013,1.5822661947497452
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Actinomycetospora chiangmaiensis,1.2996313534841446
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Actinoplanes atraurantiacus,2.173983428728027
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Agreia bicolorata,1.2571709805814268
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Anaerocolumna xylanovorans,1.5037902848300189
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Arenimonas oryziterrae,1.3972447895950422
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Arthrobacter globiformis,1.4092179977533537
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Auraticoccus monumenti,1.187381204102859
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Bacillus sp. 7586-K,1.53162062220971
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Bacteriovorax sp. BAL6 X,1.5596303196419454
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Bacteroides luti,1.4311701108399484
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Brachybacterium paraconglomeratum,1.6827068061836983
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Brevibacterium antiquum,0.7679977612421082
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Cellulomonas cellasea,1.0533410585204932
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Chlamydiales bacterium SCGC AG-110-P3,1.5236880200255518
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Chromatocurvus halotolerans,1.674572150768554
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Clavibacter michiganensis,1.381925147998816
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Clostridium combesii,1.4772778419975527
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Dermabacter hominis,1.6257454860145728
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Desulfobacter curvatus,1.4081046517692972
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Desulfobulbus elongatus,1.314548453655624
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Frankiales bacterium YIM 75000,0.9966929272616825
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Granulosicoccus antarcticus,2.5639945796152896
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Halobacteriovorax marinus,1.101792435510481
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Intrasporangiaceae bacterium URHB0013,1.5275836790343273
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Isoptericola variabilis,1.152754824793045
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Kocuria flava,1.7369902768271994
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Kocuria varians,1.735596830949395
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Kytococcus sedentarius,2.165849834435974
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Legionella brunensis,1.3206497041236502
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Leifsonia sp. Leaf325,1.604470394731159
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Luteimonas tolerans,1.7156439109424297
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Micromonospora avicenniae,1.2215957575049854
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Micromonospora peucetia,1.8874646583499197
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Mobilicoccus massiliensis,2.3979236072836945
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Mycolicibacterium obuense,1.3846665065681565
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Nesterenkonia alba,1.080761449799491
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Okibacterium fritillariae,1.3696355783804146
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Paenibacillus polysaccharolyticus,1.0258749409095742
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Plantibacter sp. VKM Ac-1784,1.2285292699012906
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Pseudoxanthomonas,1.4514804350927653
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Psychromonas aquimarina,1.2572600548832473
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Rothia mucilaginosa,0.8927598237079343
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Saccharothrix espanaensis,1.3988089875131624
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Sanguibacter keddieii,1.6614479949434613
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Sediminihabitans luteus,1.4594609023676668
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Silanimonas lenta,1.1483463665033482
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Streptomyces ambofaciens,1.1883217043538856
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Subtercola sp. Z020,1.425878007411773
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Thermomonas haemolytica,1.7437874754689717
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Virgibacillus salinus,1.2135659459914228
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Wenzhouxiangella sediminis,0.8911369528787384
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,Xanthomonas translucens,1.4157681370531598
+output//2019-12-13/2019-12-13_heptynoate_all_data_calculated_slopes.csv,heptynoate,XC,1.6281895598577658
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Granulosicoccus antarcticus,2.172495325673052
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Chromatocurvus halotolerans,1.6659888970451269
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Actinoplanes atraurantiacus,1.5984815103547423
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Arthrobacter globiformis,1.5787557155573726
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Okibacterium fritillariae,1.4486729909381362
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Kocuria flava,1.4140648625149301
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Mobilicoccus massiliensis,1.2684968455885692
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Dermabacter hominis,1.0963056273326486
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Auraticoccus monumenti,1.0844988366143005
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Kytococcus sedentarius,1.0827856411701795
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Luteimonas tolerans,0.9785181964040586
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Leifsonia sp. Leaf325,0.9409279887868554
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Thermomonas haemolytica,0.7974886019697806
+output//2019-12-13/2019-12-13_oxadiazole_all_data_calculated_slopes.csv,oxadiazole,Cephaloticoccus capnophilus,0.7552120813868811
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Actinoplanes atraurantiacus,2.3723723165671613
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Kytococcus sedentarius,2.0766074601266897
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Granulosicoccus antarcticus,1.894846842822672
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Mobilicoccus massiliensis,1.6991532696527878
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Kocuria varians,1.683887008746158
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Chromatocurvus halotolerans,1.4905630306777544
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Xanthomonas translucens,1.3538606563426516
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Rothia mucilaginosa,1.3260617233148941
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Saccharothrix espanaensis,1.3004787653656138
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,XC,1.2646957690076481
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Thermomonas haemolytica,1.2247759452823554
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Silanimonas lenta,1.2089459517873822
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Brachybacterium paraconglomeratum,1.1958320127156576
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Geodermatophilus obscurus,1.181043827609093
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Nesterenkonia alba,1.179960257980363
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Arenimonas oryziterrae,1.1755674284227047
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Citricoccus muralis,1.145692543214913
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Okibacterium fritillariae,1.1252439065166406
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Clavibacter michiganensis,1.121926240541071
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Cellulomonas cellasea,1.1149979520506792
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Agreia bicolorata,1.1144756495440662
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Subtercola sp. Z020,1.109764661496703
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Mycolicibacterium obuense,1.1019522418793306
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Streptomyces ambofaciens,1.0976462630753825
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Kocuria flava,1.0975900594885741
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Intrasporangiaceae bacterium URHB0013,1.0874873079521463
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Frankiales bacterium YIM 75000,1.0817735864147011
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Micromonospora peucetia,1.0667292701952298
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Leifsonia sp. Leaf325,1.0648140773140229
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Pseudoxanthomonas,1.0624233851012368
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Luteimonas tolerans,1.0593652477684337
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Sanguibacter keddieii,1.0524358569311816
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Sandaracinus amylolyticus,1.0476069450445984
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Desulfobulbus elongatus,1.0346343238020164
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Bacteriovorax sp. BAL6 X,1.0317441594696
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Enhygromyxa salina,1.030259017224257
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Halobacteriovorax marinus,1.0142370000609253
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Nakamurella multipartita,1.011001592598018
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Dermatophilus congolensis,1.0043879017208963
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Clostridium combesii,0.9999299694686783
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Isoptericola variabilis,0.9948802511197808
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Agrococcus casei,0.9914968019318143
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Psychromonas aquimarina,0.9912814670880168
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Chloroflexi bacterium RBG 13 51 36,0.9871455269159186
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Desulfobacter curvatus,0.9850141348510035
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Microlunatus phosphovorus,0.9746949481086109
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Bacteroides luti,0.966360736626887
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Paenibacillus polysaccharolyticus,0.9525585527948172
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Brevibacterium mcbrellneri,0.9524538846056195
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Streptomyces avermitilis,0.9441043510296151
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Kineosphaera limosa,0.9375455921254578
+output//2019-12-13/2019-12-13_TMA_all_data_calculated_slopes.csv,TMA,Anaerocolumna xylanovorans,0.9295089467790019
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Actinomycetospora chiangmaiensis,1.2377584897843328
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Actinoplanes atraurantiacus,1.9267187082908235
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Agreia bicolorata,1.5102178906770338
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Arenimonas oryziterrae,2.140577394028779
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Arthrobacter globiformis,1.8703703073591613
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Auraticoccus monumenti,1.7473922071359624
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Bacteriovorax sp. BAL6 X,1.4874217975908701
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Brachybacterium alimentarium,1.6307349823160044
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Brachybacterium paraconglomeratum,1.2473870263578524
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Brevibacterium antiquum,1.4885403449936487
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Cellulomonas cellasea,1.2826994155274722
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Cephaloticoccus capnophilus,0.8852993333542312
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Chlamydiales bacterium SCGC AG-110-P3,0.9961622518782963
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Chloroflexi bacterium RBG 13 51 36,1.3985790536833003
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Chromatocurvus halotolerans,2.17099266052425
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Dermabacter hominis,1.7098929277481125
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Dermatophilus congolensis,1.6327325984080328
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Desulfobacter curvatus,0.9636311214319341
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Geodermatophilus obscurus,1.4883081812712136
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Granulosicoccus antarcticus,2.5400860172171376
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Halobacteriovorax marinus,1.698694895790756
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Humibacillus sp. DSM 29435,1.6334208797413075
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Intrasporangiaceae bacterium URHB0013,1.9498924333585796
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Isoptericola variabilis,0.9467088731960692
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Kocuria flava,2.088565625940785
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Kocuria varians,1.702918600752761
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Kytococcus sedentarius,2.8761880228841976
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Leifsonia sp. Leaf325,1.6360064535263525
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Luteimonas tolerans,2.253609632401479
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Micromonospora avicenniae,1.438206632880744
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Micromonospora peucetia,1.7314534951673675
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Mobilicoccus massiliensis,2.5793527456254943
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Mycolicibacterium obuense,1.725212930338943
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Nesterenkonia alba,1.1503244941275368
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Okibacterium fritillariae,1.5888584495784508
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Paenibacillus polysaccharolyticus,1.4600961404484774
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Plantibacter sp. VKM Ac-1784,1.6133794061722104
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Pseudoxanthomonas,2.0790500219205685
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Psychromonas aquimarina,1.0778090219766165
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Rothia mucilaginosa,1.113153994029998
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Saccharothrix espanaensis,1.2960133979549702
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Sandaracinus amylolyticus,1.3132686671287734
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Sanguibacter keddieii,1.5109884328157686
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Sediminihabitans luteus,1.6651490783213923
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Silanimonas lenta,1.7808317044905082
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Subtercola sp. Z020,1.4739172996548002
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Thermomonas haemolytica,2.1824169520429266
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Virgibacillus salinus,0.9907259495502284
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,Xanthomonas translucens,2.172278077724573
+output//C6_control/20191112_hexanoate_final_avged_log_calculated_slopes.csv,hexanoate,XC,2.4367772869151625

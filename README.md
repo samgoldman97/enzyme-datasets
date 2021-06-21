@@ -1,31 +1,38 @@
 # enzyme-datasets
 Enzyme datasets used to benchmark enzyme-substrate promiscuity models
 
-Enzyme datasets figured currently
-
 ## Dataset details
 
-TODO:   
-1. [Done] `reformat_esterase.py`   
-2. [Done] `reformat_gts.py`    
-3. [Done] `reformat_halogenase.py`    
-4. [Done] `reformat_phosphatase.py`    
-5. [Done] `reformat_olea.py`    
-6. [Done] `reformat_duf.py`    
-7. [Done] `reformat_davis.py`    
+| Dataset Class    | Dataset Name                         | Dataset Type   |   # Enz. |   # Sub. |   # Pairs |
+|:-----------------|:-------------------------------------|:---------------|---------:|---------:|----------:|
+| aminotransferase | aminotransferase.csv                 | Regression     |       25 |       18 |       450 |
+| aminotransferase | aminotransferase_binary.csv          | Binary         |       25 |       18 |       450 |
+| olea             | olea.csv                             | Regression     |       73 |       14 |       550 |
+| gt               | gt_donors_achiral_binary.csv         | Binary         |       55 |       10 |       514 |
+| gt               | gt_donors_achiral_categorical.csv    | Categorical    |       55 |       10 |       514 |
+| gt               | gt_donors_chiral_categorical.csv     | Categorical    |       55 |       13 |       667 |
+| gt               | gt_donors_chiral_binary.csv          | Binary         |       55 |       13 |       667 |
+| nitrilase        | nitrilase_binary.csv                 | Binary         |       18 |       38 |       684 |
+| olea             | olea_binary.csv                      | Binary         |       73 |       15 |      1095 |
+| halogenase       | halogenase_NaBr_binary.csv           | Binary         |       42 |       62 |      2604 |
+| halogenase       | halogenase_NaBr.csv                  | Regression     |       42 |       62 |      2604 |
+| halogenase       | halogenase_NaCl.csv                  | Regression     |       42 |       62 |      2604 |
+| halogenase       | halogenase_NaCl_binary.csv           | Binary         |       42 |       62 |      2604 |
+| duf              | duf_binary.csv                       | Binary         |      161 |       17 |      2737 |
+| gt               | gt_acceptors_achiral_categorical.csv | Categorical    |       54 |       90 |      4298 |
+| gt               | gt_acceptors_achiral_binary.csv      | Binary         |       54 |       90 |      4298 |
+| gt               | gt_acceptors_chiral_binary.csv       | Binary         |       54 |       91 |      4347 |
+| gt               | gt_acceptors_chiral_categorical.csv  | Categorical    |       54 |       91 |      4347 |
+| esterase         | esterase_binary.csv                  | Binary         |      146 |       96 |     14016 |
+| davis            | davis_filtered.csv                   | Regression     |      318 |       72 |     22896 |
+| davis            | davis.csv                            | Regression     |      405 |       72 |     29160 |
+| phosphatase      | phosphatase_achiral.csv              | Regression     |      218 |      108 |     23544 |
+| phosphatase      | phosphatase_achiral_binary.csv       | Binary         |      218 |      108 |     23544 |
+| phosphatase      | phosphatase_chiral.csv               | Regression     |      218 |      165 |     35970 |
+| phosphatase      | phosphatase_chiral_binary.csv        | Binary         |      218 |      165 |     35970 |
 
-Not benchmarked 
 
-8. [Done] `reformat_ainotransfrase.py`    
-9. [Done] `reformat_nitrilase.py`    
 
-After compiling this, add list of dataset processed files and the amount of enzymes, substrates, and pairings for each
-
-Auto generate MSA? 
-
-Also auto generate structure references? 
-
-Make distinction between nitrilase and aminotransferase datasets
 
 ## Install
 
@@ -33,7 +40,7 @@ Creating an env:
 
 `conda create -c conda-forge -n enz-datasets rdkit python=3.6`
 
-other packages: xlrd, scipy, tqdm, openpyxl, cirpy, Biopython, requests
+other packages: xlrd, scipy, tqdm, openpyxl, cirpy, Biopython, requests, tabulate
 
 
 ## Dataset descriptions
