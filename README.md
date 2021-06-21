@@ -31,6 +31,27 @@ Enzyme datasets used to benchmark enzyme-substrate promiscuity models
 | phosphatase      | phosphatase_chiral.csv               | Regression     |      218 |      165 |     35970 |
 | phosphatase      | phosphatase_chiral_binary.csv        | Binary         |      218 |      165 |     35970 |
 
+### Citations
+
+If you use any of these datasets, please cite the following, respective datasets: 
+
+1.  Bastard, K. et al. Revealing the hidden functional diversity of an enzyme family. Nature Chemical Biology 10, 42–49 (2014).    
+
+2.  Black, G. W. et al. A high-throughput screening method for determining the substrate scope of nitrilases. Chemical Communications 51, 2660–2662 (2015).   
+
+3.  Davis, M. I. et al. Comprehensive analysis of kinase inhibitor selectivity. Nature biotechnology 29, 1046–1051 (2011).    
+
+4.  Hie, B., Bryson, B. D. & Berger, B. Leveraging uncertainty in machine learning accelerates biological discovery and design. Cell Systems 11, 461-477. e9 (2020).    
+
+5.  Huang, H. et al. Panoramic view of a superfamily of phosphatases through substrate profiling. PNAS 112, E1974–E1983 (2015).    
+
+6.  Li, T. et al. Exploration of transaminase diversity for the oxidative conversion of natural amino acids into 2-ketoacids and high-value chemicals. ACS Catalysis 10, 7950–7957 (2020).    
+
+7.  Martínez-Martínez, M. et al. Determinants and Prediction of Esterase Substrate Promiscuity Patterns. ACS Chem. Biol. 13, 225–234 (2018).    
+
+8.  Robinson, S. L., Smith, M. D., Richman, J. E., Aukema, K. G. & Wackett, L. P. Machine learning-based prediction of activity and substrate specificity for OleA enzymes in the thiolase superfamily. Synth Biol 5, (2020).    
+
+9.  Yang, M. et al. Functional and informatics analysis enables glycosyltransferase activity prediction. Nature Chemical Biology 14, 1109–1117 (2018).    
 
 
 
@@ -48,65 +69,83 @@ other packages: xlrd, scipy, tqdm, openpyxl, cirpy, Biopython, requests, tabulat
 ### Esterase
 
 **Source:** Martinez-Martinez et al. *ACS Chem. Biol*. 2018.  
+**Parser file:** `bin/reformat_esterase.py`  
 
-Raw data can be found in the SI and includes listings of smiles strings and enzyme sequences
+
+Raw data is extracted from the paper supplement.
 
 ### Glycosyltransferases (gts)
 
-**Source:** Yang et al. *Nature Chem. Bio.* 2017. 
+**Source:** Yang et al. *Nature Chem. Bio.* 2017.   
+**Parser file:** `bin/reformat_gts.py`  
 
-Raw data is extracted as an excel spreadsheet with sequences. Numbers are manually added to each spreadsheet to reflect the low, medium, high activity scoring color equivalent to the green, amber, red screen. Some combinations were not tested. Results from both the acceptor and donor screen are extracted and parsed into categorical and binary data. In the binary setting, medium activity is considered to be "active." 
+
+Raw data is extracted as an excel spreadsheet with sequences. Numbers are manually added to each spreadsheet to reflect the low, medium, high activity scoring color equivalent to the green, amber, red screen. Some combinations were not tested and labeled as 0. Results from both the acceptor and donor screen are extracted and parsed into categorical and binary data. In the binary setting, medium activity is considered to be "active." 
 
 ### Halogenases 
 
-**Source:** Lewis et al. *ACS Cent. Sci.* 2019. 
+**Source:** Lewis et al. *ACS Cent. Sci.* 2019.    
+**Parser file:** `bin/reformat_halogenase.py`  
 
-Conversion, chemdraw files, the ssn file with sequences tested, and solubility files are extracted from the SI of the halogenase paper. Data was processed into regression and binarized prediction tasks using a cutoff of 0.08 for binary thresholding. Sequences were also cutoff at 1,000 amino acids in length, removing a single sequence. Lastly, to remove sequences that have never been seen to perform halogenatoin reactions, all sequences that never achieve maximum conversion of 0.05 were filtered. 
 
-Separate data files were created for bromination and chlorination reactions.
+Conversion, chemdraw files, the sequence similarity network file with sequences, and solubility files are extracted from the paper supplement. Data was processed into regression and binarized prediction tasks using a cutoff of 0.08 for binary thresholding. Sequences were also cutoff at 1,000 amino acids in length, removing a single sequence. Lastly, to remove sequences that may not be halogenases, all sequences that never achieve a minimum of 0.05 conversion were filtered. 
+
+Separate data files were created for bromination and chlorination reactions, measured separatley by Lewis et al.
 
 ### Phosphatases
 
-**Source:** Huang et al. *PNAS.* 2015. 
+**Source:** Huang et al. *PNAS.* 2015.    
+**Parser file:** `bin/reformat_phosphatase.py`  
 
-Raw phosphatase data is extracted from the SI and stored as two excel notebooks. Each sheet corresponds to a different protein screened. Each cell's corresponding compound is listed as a comment on the cell. These are extracted programmatically. A corresponding manually annotated smiles data file was created by redrawing chemical structures from the SI of the original paper, in addition to a series of other name to smiles mappings (pubchem and cirpy). The proper smiles is chosen from this dat file in order of manual mapping, pubchem mapping, and cirpy mapping. 
 
-Smiles are standardized by uncharging followed by uncharging. An achiral version of each molecule is also created for a second, achiral version of the dataset. 
+Raw phosphatase data is extracted from paper supplement and stored as two excel notebooks. Each sheet corresponds to a different protein screened. Each cell's corresponding compound is listed as a comment on the cell. These are extracted programmatically. A corresponding, manually annotated smiles data file was created by redrawing chemical structures from the original paper supplement, in addition to a series of other name to smiles mappings (Pubchem and Cirpy). The proper smiles is chosen from this data file in order of priority (1. manual mapping 2.pubchem mapping, and 3. Cirpy mapping). 
 
-Sequences are resolved from uniprot ID's by programmatically querying Uniprot. In the case where uniprot ID's are not found due to merged metagenomic entries, uniparc is further queried to find the original sequences tested. 
+Smiles are standardized by uncharging. An achiral version of each molecule is also created for a second, achiral version of the dataset. 
+
+Sequences are resolved from uniprot ID's by programmatically querying Uniprot. In the case where Uniprot ID's are not found due to merged metagenomic entries, Uniparc is further queried to find the original sequences tested. 
 
 All activity is binarized at the suggested 0.2 threshold and also exported with the original value for regression tasks.
 
 ### OleA (thiolase) 
 
-**Source:** Robinson et al. *Synthetic Biology*. 2020. 
+**Source:** Robinson et al. *Synthetic Biology*. 2020.    
+**Parser file:** `bin/reformat_olea.py`  
+
 
 Data input files are extracted from the corresponding github repository provided by Robinson et al. 
 
-Binarized and regression versions of the dataset are created as in the original analaysis. 
+Binarized and regression versions of the dataset are created as in the original analysis. 
 
 ### DUF (BKACE) 
 
-**Source:** Bastard et al. *Nature Chem. Bio*. 2014. 
+**Source:** Bastard et al. *Nature Chem. Bio*. 2014.     
+**Parser file:** `bin/reformat_duf.py`  
 
-Data files are taken from Bastard et al in the form of BinaryActivities.DB. Smiles strings are manually redrawn from the apper and converted into a mapping between chemical name and smiles string. Sequences are further extracted from an MSA. 
+
+Data files are taken from Bastard et al in the form of BinaryActivities.DB. Smiles strings are manually redrawn from the paper and converted into a mapping between chemical name and smiles string. Sequences are further extracted from an MSA. 
 
 ### Davis (kinase inhibitors) 
 
-**Source:** Davis et al. *Nature Biotech.* 2011. 
+**Source:** Davis et al. *Nature Biotech.* 2011.     
+**Parser file:** `bin/reformat_davis.py`  
+
 
 Unlike other enzyme datasets, this dataset contains a kinase inhibitor profile of 72 inhibitors against 442 kinases. We process this dataset in two ways. First, using the gene symbols that have deletions and insertions, we modify each sequence to have the appropriately listed insertions and deletions. Certain entries are given for both domains or a single domain of the kinase tested. To make sure we only model the kinase domain actually tested and stay within a single family, we use HMMER to trim each sequence to its corresponding domain PF000069. Further details can be found in the parse file `bin/reformat_davis.py`. 
 
-All kinase Kd pairs not listed are assumed to have been tested and ascribed a Kd value of 10,000. We create a second version of the dataset, "filtered," that contain no substitutions, insertions, or deletions.
+All kinase Kd pairs not listed are assumed to have been tested and ascribed a Kd value of 10,000. We create a second version of the dataset, "filtered," that contains only sequences without substitutions, insertions, or deletions.
 
 ### Nitrilase 
 
-**Source:** Black et al. *RSC Chem. Commun..* 2014. 
+**Source:** Black et al. *RSC Chem. Commun..* 2014.    
+**Parser file:** `bin/reformat_nitrilase.py`  
+
 
 Nitrilase data is extracted directly from Black et al. and uniprot ids are converted to corresponding sequences.
 
 ### Aminotransferase
 
-**Source:** Li et al. *ACS Catal.* 2020. 
+**Source:** Li et al. *ACS Catal.* 2020.     
+**Parser file:** `bin/reformat_aminotransferases.py`  
+
 
 Aminotransferase data is extracted directly from Li et al. and uniprot ids are converted to corresponding sequences.
