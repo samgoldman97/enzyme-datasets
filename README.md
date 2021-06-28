@@ -149,3 +149,23 @@ Nitrilase data is extracted directly from Black et al. and uniprot ids are conve
 
 
 Aminotransferase data is extracted directly from Li et al. and uniprot ids are converted to corresponding sequences.
+
+
+## Structure and MSA Extraction
+
+
+|    | Dataset          | PDB ID   |
+|---:|:-----------------|:---------|
+|  0 | esterase         | 5a6v     |
+|  1 | davis            | 2CN5     |
+|  2 | aminotransferase | 3QPG     |
+|  3 | nitrilase        | 3WUY     |
+|  4 | phosphatase      | 3l8e     |
+|  5 | halogenase       | 2AR8     |
+|  6 | olea             | 4KU5     |
+|  7 | duf              | 2Y7F     |
+|  8 | gt               | 3HBF     |
+
+For certain pipelines, we may be interested in having access to one protein crystal structure representative of the dataset tested or an alignment of allt he proteins in the dataset. We extract these crystal structure references as well as alignments using the file: `create_ref_and_aligns.sh.`  The table above includes all the PDB ID's used as reference structures.  
+
+Note that MuscleCommandline must be installed to do this. 

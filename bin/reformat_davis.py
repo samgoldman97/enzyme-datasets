@@ -38,7 +38,7 @@ seq_file_processed = path_wrap("uniprot_sequences_processed.fasta")
 out_name = "data/processed/davis.csv"
 out_name_filter = "data/processed/davis_filtered.csv"
 
-# Max kinase Kd 
+# Max kinase Kd
 MAX_VAL = 10000.0
 SUB_RE = r"([A-Z]+)([0-9]+)([A-Z]+)"
 DEL_RE = r"((?:[A-Z]+[0-9]+-*)+)del"

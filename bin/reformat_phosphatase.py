@@ -131,8 +131,7 @@ def get_substrate_sheet_mapping(label_file, dicts):
     return match_dict
 
 
-def main(rawdir, outdir, data_file, 
-         label_file, manually_annotated):
+def main(rawdir, outdir, data_file, label_file, manually_annotated):
     """Main method"""
     wb = load_workbook(filename=data_file)
 
@@ -286,8 +285,9 @@ def main(rawdir, outdir, data_file,
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--rawdir", type=str, help="Raw data directory", 
-                        default="data/raw")
+    parser.add_argument(
+        "--rawdir", type=str, help="Raw data directory", default="data/raw"
+    )
     parser.add_argument("--outdir", type=str, help="outdir", default="data/processed")
     parser.add_argument(
         "--data-file",
@@ -309,7 +309,7 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    rawdir= args.rawdir
+    rawdir = args.rawdir
     outdir = args.outdir
     data_file = args.data_file
     label_file = args.label_file

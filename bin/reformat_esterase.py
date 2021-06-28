@@ -64,8 +64,7 @@ def create_new_table():
     df_out.loc[~pos_activity, "activity"] = 0
 
     # Filter by sequence length
-    df_out = df_out[[len(i) < 1000 for i in df_out["SEQ"]
-                    ]].reset_index(drop=True)
+    df_out = df_out[[len(i) < 1000 for i in df_out["SEQ"]]].reset_index(drop=True)
 
     ### Grab data
     df_out.to_csv(OUT_NAME)

@@ -50,7 +50,9 @@ def main(outdir, rawdir, data_file):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--outdir", type=str, help="outdir", default="data/processed")
-    parser.add_argument("--rawdir", type=str, help="rawdir", default="data/raw/nitrilase")
+    parser.add_argument(
+        "--rawdir", type=str, help="rawdir", default="data/raw/nitrilase"
+    )
 
     parser.add_argument(
         "--data-file",

@@ -11,6 +11,7 @@ import numpy as np
 BINARY_THRESH = 0.08
 SEQ_CUTOFF = 1000
 
+
 def main(outdir, conversion_file, smiles_mapping_file, ssn_file, soluble_proteins_file):
     """Execute program logic"""
 

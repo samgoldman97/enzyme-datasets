@@ -1,0 +1,1 @@
+python bin/extract_structure_alignments.py

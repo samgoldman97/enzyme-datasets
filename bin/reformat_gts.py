@@ -22,23 +22,23 @@ def main(outdir, data_file_acceptors, data_file_donors, seq_file):
 
     ### Start with data_file acceptrs
     for chiral in [True, False]:
-        for input_file, base_name in zip([data_file_acceptors, data_file_donors], 
-                                         ["gt_acceptors", "gt_donors"]):
+        for input_file, base_name in zip(
+            [data_file_acceptors, data_file_donors], ["gt_acceptors", "gt_donors"]
+        ):
 
             base_name = f"{base_name}_chiral" if chiral else f"{base_name}_achiral"
 
-            df = pd.read_excel(input_file, header=0,
-                               engine="openpyxl",
-                               index_col=0).rename({"Unnamed: 1": "SUBSTRATE"},
-                                                   axis=1)
+            df = pd.read_excel(
+                input_file, header=0, engine="openpyxl", index_col=0
+            ).rename({"Unnamed: 1": "SUBSTRATE"}, axis=1)
             df = df.rename(lambda x: x.upper(), axis=1)
 
             entries = []
             for row_num, row in df.iterrows():
                 sub = row["SMILES"]
 
-                # Break if we don't have a substrate in this row 
-                if not isinstance(sub, str): 
+                # Break if we don't have a substrate in this row
+                if not isinstance(sub, str):
                     print(f"Moving onto next row from substrate: {sub}")
                     continue
 
@@ -51,8 +51,7 @@ def main(outdir, data_file_acceptors, data_file_donors, seq_file):
 
                 for key, value in row.items():
                     # Make sure it's an actual protein entry
-                    if key != "SUBSTRATE" and key != "SMILES" and int(
-                            value) != 0:
+                    if key != "SUBSTRATE" and key != "SMILES" and int(value) != 0:
                         protein_seq = seq_dict[key]
                         entry = {
                             "SEQ": protein_seq,
@@ -71,8 +70,7 @@ def main(outdir, data_file_acceptors, data_file_donors, seq_file):
                 # Write these out to a categorical version
                 base_df = pd.DataFrame(entries)
                 # Take the maximum of equivalently named psespecies
-                base_df = base_df.groupby(["SEQ",
-                                           "SUBSTRATES"]).max().reset_index()
+                base_df = base_df.groupby(["SEQ", "SUBSTRATES"]).max().reset_index()
 
                 # If we have a binary matrix
                 if output_type == "binary":
@@ -88,10 +86,7 @@ def main(outdir, data_file_acceptors, data_file_donors, seq_file):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--outdir",
-                        type=str,
-                        help="outdir",
-                        default="data/processed/")
+    parser.add_argument("--outdir", type=str, help="outdir", default="data/processed/")
     parser.add_argument(
         "--sequence-file",
         type=str,
@@ -114,5 +109,6 @@ if __name__ == "__main__":
 
     os.makedirs(args.outdir, exist_ok=True)
 
-    main(args.outdir, args.data_file_acceptors, 
-         args.data_file_donors, args.sequence_file)
+    main(
+        args.outdir, args.data_file_acceptors, args.data_file_donors, args.sequence_file
+    )

@@ -47,7 +47,8 @@ def has_lines(f_name: str) -> bool:
     return ret
 
 
-def download_enzymes(f_name: str,
+def download_enzymes(
+    f_name: str,
     step_size: int = 1000,
     total_lines_to_read: Optional[int] = None,
     read_timeout: int = 240,
